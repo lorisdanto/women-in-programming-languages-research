@@ -5,7 +5,9 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Nada Amin](http://namin.net), University of Cambridge, UK
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University, EPFL
+* [Brigitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego
+* [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University
 
 ## Industry
